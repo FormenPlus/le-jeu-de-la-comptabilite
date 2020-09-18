@@ -6,6 +6,15 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select>
       <path>
@@ -18,6 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b4f9022e-8485-425a-937b-e414ddffd195" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +38,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hVACG9BxTRYaw6RWfQkwwfrgyt" />
@@ -61,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600085756337</updated>
       <workItem from="1600085757347" duration="15605000" />
-      <workItem from="1600395799433" duration="2527000" />
+      <workItem from="1600395799433" duration="3811000" />
     </task>
     <task id="LOCAL-00001" summary="Code complet de l'application v. 1">
       <created>1600393523794</created>
@@ -70,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600393523794</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ajout des fichiers .idea (paramètres projet)">
+      <created>1600409426895</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600409426895</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +126,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Code complet de l'application v. 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code complet de l'application v. 1" />
+    <MESSAGE value="Ajout des fichiers .idea (paramètres projet)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout des fichiers .idea (paramètres projet)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2151" y="475" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600087459502">
@@ -135,10 +158,10 @@
       <screen x="1536" y="23" width="2560" height="1417" />
     </state>
     <state x="2459" y="234" key="SettingsEditor/1536.23.2560.1417/0.23.1536.937@1536.23.2560.1417" timestamp="1600396924879" />
-    <state x="2573" y="360" key="Vcs.Push.Dialog.v2" timestamp="1600399352949">
+    <state x="2573" y="360" key="Vcs.Push.Dialog.v2" timestamp="1600409431436">
       <screen x="1536" y="23" width="2560" height="1417" />
     </state>
-    <state x="2573" y="360" key="Vcs.Push.Dialog.v2/1536.23.2560.1417/0.23.1536.937@1536.23.2560.1417" timestamp="1600399352949" />
+    <state x="2573" y="360" key="Vcs.Push.Dialog.v2/1536.23.2560.1417/0.23.1536.937@1536.23.2560.1417" timestamp="1600409431436" />
     <state x="3323" y="532" width="730" height="616" key="find.popup" timestamp="1600144643713">
       <screen x="1536" y="23" width="2560" height="1417" />
     </state>
